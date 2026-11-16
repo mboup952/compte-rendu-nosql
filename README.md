@@ -1,4 +1,6 @@
 # Compte rendu — Labos NoSQL / NewSQL (Séquences 1, 2 et 3)
+**Étudiant : Kine MBOUP — Classe : M2IAGE**
+**Compte GitHub : mboup952**
 
 Projet fil rouge : **Teranga Market** (commerce en ligne).
 Environnement : Docker Desktop (Windows, WSL2) ; chaque labo est un projet Docker Compose lancé séparément.
